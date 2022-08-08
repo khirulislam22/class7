@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0px 0px;
+}
+.main-top-var{
+    background-color: #0b1979;
+    text-align: center;
+    border-bottom: 10px solid black;
+}
+
+
+
+.white{
+ color: white;
+ font-style: italic;
+}
+
+.practice-color{
+    color: #bb486c;
+    font-size: 30px;
+}
+
+.practice-color2{
+    color: #78c7f3  ;
+    font-style: italic;
+}
+
+
+
+
+.paragraph{
+ 
+background-color: #047504;
+font-style: italic;
+font-size: 30px;
+color: white;
+text-align: center;
+padding: 10px;
+
+}
+
+.img-content{
+
+    background-color: black;
+
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+
+.learn-about{
+    background-color: #834646;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+}
+
+.paragraph-2{
+    background-color: #eeeeee;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.our-service{
+
+    background-color: #297a48;
+    padding: 15px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.bg-color{
+    color: #eeeeee;
+    text-align: center;
+    padding: 10px;
+}
+.heading{
+
+    font-size: 28px;
+    color: black;
+}
+
+.para{
+    color: black;
+}
+
+.sub-div{
+    font-family: sans-serif;
+}
+
+.contact{
+    background-color: #0d6efd;
+    text-align: center;
+    font-size: 45px;
+    padding: 10px;
+}
+
+.form{
+    background-color: #eeeeee;
+    padding: 70px;
+    text-align: center;
+}
+input{
+    padding: 6px 10px ;
+    margin-bottom: 15px;
+}
+.size{
+    margin-top: 12px;
+}
+
+
+.footer-menu{
+    background-color: #4f84c4;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+
+.h1f{
+    font-size: 35px;
+}
+
+.p1f{
+font-size: 28px;
+
+}
+
+.last{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.ext-last{
+   color: #0571e6;
+}
